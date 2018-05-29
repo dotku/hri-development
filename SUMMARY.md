@@ -11,5 +11,5 @@
 * [Appendix: Choice of the Editor](appendix-choice-of-the-editor.md)
 * Reference
   * [Books](reference/books.md)
-* Articles
+  * Articles
 
