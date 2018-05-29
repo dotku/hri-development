@@ -1,0 +1,12 @@
+title: HRI Development
+email: weijingjaylin[at]gmail.com
+description: A  web to help me understanding HRI development.
+baseurl: ''
+url: ''
+twitter_username: dotku
+github_username: dotku
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-admin
