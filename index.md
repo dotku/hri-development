@@ -2,5 +2,5 @@
 title: Index Page
 ---
 
-This is a page (master)
+This is a page (master 1)
 {{ post.title }}
