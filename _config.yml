@@ -6,7 +6,7 @@ url: ''
 twitter_username: dotku
 github_username: dotku
 markdown: kramdown
-theme: jekyll-theme-architect
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
   - jekyll-admin
