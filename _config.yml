@@ -2,7 +2,7 @@ title: HRI Development
 email: weijingjaylin[at]gmail.com
 description: A  web to help me understanding HRI development.
 baseurl: 'hri-development'
-url: 'https://dotku.github.io/hri-development/'
+url: 'https://dotku.github.io'
 twitter_username: dotku
 github_username: dotku
 markdown: kramdown
