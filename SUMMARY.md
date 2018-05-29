@@ -8,6 +8,8 @@
 * [index](index.md)
 * [about](about.md)
 * [build-github-site-by-using-jckyll](build-github-site-by-using-jckyll.md)
-* [Books](books.md)
 * [Appendix: Choice of the Editor](appendix-choice-of-the-editor.md)
+* Reference
+  * [Books](reference/books.md)
+* Articles
 
