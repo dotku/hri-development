@@ -24,3 +24,4 @@
 
 ## More:
 清华大学出版社 http://www.tup.tsinghua.edu.cn/
+人机交互中的人脸表情识别研究进展 http://xuewen.cnki.net/CJFD-ZGTB200905005.html
