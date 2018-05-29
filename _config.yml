@@ -1,3 +1,4 @@
+avatar: assets/images/avatar.jpg
 title: HRI Development
 email: weijingjaylin[at]gmail.com
 description: A  web to help me understanding HRI development.
@@ -11,3 +12,4 @@ plugins:
   - jekyll-feed
   - jekyll-admin
 destination: 'docs'
+theme: jekyll-theme-prologue
