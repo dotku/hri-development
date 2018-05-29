@@ -1,4 +1,4 @@
 # HRI Development
 
-A blog for my HRI development.
+A on processing book for HRI \(Human Robot Interaction\) development.
 
