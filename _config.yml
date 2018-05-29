@@ -6,7 +6,7 @@ url: 'https://dotku.github.io'
 twitter_username: dotku
 github_username: dotku
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: jekyll-text-theme
 plugins:
   - jekyll-feed
   - jekyll-admin
