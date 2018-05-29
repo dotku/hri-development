@@ -10,4 +10,4 @@ theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
   - jekyll-admin
-destination: './docs'
+destination: 'docs'
